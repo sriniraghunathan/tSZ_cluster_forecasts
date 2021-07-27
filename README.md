@@ -13,7 +13,7 @@
    * <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation - 6 parameters: <img src="https://render.githubusercontent.com/render/math?math=\alpha_{\rm Y}, \beta_{\rm Y}, \gamma_{\rm Y}, \sigma_{\rm logY}, \alpha_{\sigma}, \gamma_{\sigma}">
    * Cluster virialisation model - 2 parameters:
      * Model 1: <img src="https://render.githubusercontent.com/render/math?math={\rm v}(z) = \eta_{\rm v}(z) (1 - b_{\rm HSE})^{\alpha_{Y_{\rm SZ}}}">
-     * Model 2: <img src="https://render.githubusercontent.com/render/math?math={\rm v}(z) = A_{\rm v} {\rm ln}(1+z)"> + <img src="https://render.githubusercontent.com/render/math?math=B_{\rm v}">
+     * Model 2: <img src="https://render.githubusercontent.com/render/math?math={\rm v}(z) = A_{\rm v} {\rm ln}(1">+<img src="https://render.githubusercontent.com/render/math?math=z)"> + <img src="https://render.githubusercontent.com/render/math?math=B_{\rm v}">
      
  * Data products: [data_products/fisher](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/data_products/fisher)
  * Script to read Fisher matrices: [read_fisher_mat.ipynb](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/blob/main/read_fisher_mat.ipynb)
