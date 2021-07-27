@@ -9,7 +9,7 @@
 
 ## Fisher matrices
  * Parameters constrained: Cosmology + <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation + cluster virialisation model - 16 parameters.
-   * Cosmology: 6+2 parameters: <img src="https://render.githubusercontent.com/render/math?math=\Lambda CDM, \sum m_{\nu}, w_{\rm DE} ">
+   * Cosmology - 6+2 parameters: <img src="https://render.githubusercontent.com/render/math?math=\Lambda CDM, \sum m_{\nu}, w_{\rm DE} ">
    * <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation - 6 parameters: <img src="https://render.githubusercontent.com/render/math?math=\alpha_{\rm Y}, \beta_{\rm Y}, \gamma_{\rm Y}, \sigma_{\rm logY}, \alpha_{\sigma}, \gamma_{\sigma}">
    * Cluster virialisation model - 2 parameters:
      * Model 1: <img src="https://render.githubusercontent.com/render/math?math={\rm v}(z) = \eta_{\rm v}(z) (1 - b_{\rm HSE})^{\alpha_{Y}}">
