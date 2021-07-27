@@ -17,5 +17,3 @@
      
  * Data products: [data_products/fisher](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/data_products/fisher)
  * Script to read Fisher matrices: [read_fisher_mat.ipynb](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/blob/main/read_fisher_mat.ipynb)
-
-
