@@ -1,9 +1,9 @@
 # tSZ cluster forecasts for future CMB surveys
- * Paper 1:
+ * Paper 1 (2107.10250):
    * Reference: Raghunathan, Whitehorn, Alvarez et al. (2021); [arXiv:2107.10250](https://arxiv.org/abs/2107.10250)
    * Thermal SZ selected cluster catalogue forecasts for [CMB-S4](https://arxiv.org/abs/1907.04473) and [CMB-HD](https://arxiv.org/abs/1906.10134). 
    * Astrophysical and cosmological constraints with tSZ selected clusters.
-* Paper 2:
+* Paper 2 (xxxx.xxxx):
    * Reference:
    * 
    * 
