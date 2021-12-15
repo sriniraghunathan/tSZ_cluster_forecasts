@@ -4,7 +4,7 @@
    * Thermal SZ selected cluster catalogue forecasts for [CMB-S4](https://arxiv.org/abs/1907.04473) and [CMB-HD](https://arxiv.org/abs/1906.10134). 
    * Astrophysical and cosmological constraints with tSZ selected clusters.
 * Paper 2 (2112.07656):
-   * Reference:
+   * Reference: Raghunathan (2021); [arXiv:2112.07656](https://arxiv.org/abs/2112.07656)
    * Assesing the importance of noise from Thermal SZ signals for cluster surveys and cluster cosmology.
    * Experiments considered: [SPT](https://pole.uchicago.edu/public/Home.html) (SPT-SZ, SPTpol, SPT-3G); [Simons Observatory](https://arxiv.org/abs/1808.07445) (SO-Baseline and SO-Goal); [CMB-S4](https://arxiv.org/abs/1907.04473) (S4-Wide and S4-Ultra deep surveys); and [CMB-HD](https://arxiv.org/abs/1906.10134). 
    * Cosmological constraints with tSZ selected clusters, primary CMB, and tSZ power spectrum.
