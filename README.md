@@ -25,7 +25,7 @@
   * Data products: [2107.10250/data_products/fisher](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/2107.10250/data_products/fisher)
   * Script to read Fisher matrices: [2107.10250/read_fisher_mat.ipynb](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/blob/main/2107.10250/read_fisher_mat.ipynb)
 
-* Paper 2[(xxxx.xxxx)](https://arxiv.org/abs/xxxx.xxxx):
+* Paper 2 [(xxxx.xxxx)](https://arxiv.org/abs/xxxx.xxxx):
   * Parameters constrained: Cosmology + <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation - 15 parameters.
   * Cosmology - 6+2 parameters: <img src="https://render.githubusercontent.com/render/math?math=\Lambda CDM, \sum m_{\nu}, w_{\rm DE} ">
   * <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation - 6 parameters: <img src="https://render.githubusercontent.com/render/math?math=\alpha_{\rm Y}, \beta_{\rm Y}, \gamma_{\rm Y}, \sigma_{\rm logY}, \alpha_{\sigma}, \gamma_{\sigma}">
