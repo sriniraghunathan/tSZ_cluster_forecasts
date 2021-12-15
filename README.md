@@ -30,6 +30,6 @@
   * Cosmology - 6+2 parameters: <img src="https://render.githubusercontent.com/render/math?math=\Lambda CDM, \sum m_{\nu}, w_{\rm DE} ">
   * <img src="https://render.githubusercontent.com/render/math?math=Y_{\rm SZ}-M"> scaling relation - 6 parameters: <img src="https://render.githubusercontent.com/render/math?math=\alpha_{\rm Y}, \beta_{\rm Y}, \gamma_{\rm Y}, \sigma_{\rm logY}, \alpha_{\sigma}, \gamma_{\sigma}">
   * Data products:
-    * ILC weights and residuals: [2112.07656/ILC_weights_residuals](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/2112.07656/ILC_weights_residuals)
+    * ILC weights and residuals: [2112.07656/ilc_weights_residuals](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/2112.07656/ilc_weights_residuals)
     * Fisher matrices: [2112.07656/Fisher matrices](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/2112.07656/Fisher)
     * Simulation products: [2112.07656/Simulation products](https://github.com/sriniraghunathan/tSZ_cluster_forecasts/tree/main/2112.07656/sim_products)
