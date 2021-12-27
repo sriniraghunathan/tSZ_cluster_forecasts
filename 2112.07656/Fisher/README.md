@@ -1,2 +1,2 @@
 # Fisher matrices:
- * To be updated soon. Please contact srinirag@illino.edu
+ * To be updated soon. Please contact srinirag@illinos.edu
